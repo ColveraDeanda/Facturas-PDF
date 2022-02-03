@@ -2,12 +2,12 @@ const { createInvoice } = require("./createInvoice.js");
 
 const invoice = {
   shipping: {
-    name: "Cristobal Olvera",
+    name: "Olvera",
     address: "Queretaro 14",
-    city: "Dolores",
+    city: "San Miguel",
     state: "Guanajuato",
-    country: "Mexico",
-    postal_code: 37800
+    country: "USA",
+    postal_code: 895200
   },
   items: [
     {
